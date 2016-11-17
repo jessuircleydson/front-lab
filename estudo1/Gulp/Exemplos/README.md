@@ -1,5 +1,5 @@
 # Gulp primeiro teste
 
-Este é o link da minha pasta contendo o arquivo de Gulp [Conteúdo com Gulp](/Exemplos)
+Este é o link da minha pasta com o arquivo de Gulp [Conteúdo](/Exemplos)
 
 > Isso está sendo uma novidade vamos ver como vou sair com isso!
