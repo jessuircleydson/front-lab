@@ -20,6 +20,6 @@
 
 > bower install url_do_repositório --save
 
-*A flag **_--save_** serve para dizer que você quer gravar a referência dessa lib no arquivo **_bower.json_***
+*A flag ``--save`` serve para dizer que você quer gravar a referência dessa lib no arquivo **_bower.json_***
 *Posteriormente em outro projeto, basta apenas copiar o **_bower.json_**, e na pasta onde ele estiver usar o comando ``bower install`` que instalará todas as libs referenciadas no arquivo **_bower.json_***
 
