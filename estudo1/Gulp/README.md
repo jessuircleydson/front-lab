@@ -16,11 +16,11 @@
 var gulp = require('gulp');
 
 gulp.task('default', function() {
-  // aqui vai o código que sua task executara
+  // aqui vai o código que sua task executará
 });
 ```
 
-## Va até sua pasta pelo terminal, e execute o comando abaixo para rodar o gulo
+## Va até sua pasta pelo terminal, e execute o comando abaixo para rodar o gulp
 > gulp
 
-**A a task chamada 'default' que você criou será executada**
+**A task chamada 'default' que você criou será executada**
