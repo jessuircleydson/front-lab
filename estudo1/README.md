@@ -4,7 +4,7 @@
 * Startando projeto com gerenciadores de pacotes e task runner
   * Npm
   * Bower
-  * [Gulp](/Gulp)
+  * [Gulp](/estudo1/Gulp)
   * webpack
 
 * CSS
