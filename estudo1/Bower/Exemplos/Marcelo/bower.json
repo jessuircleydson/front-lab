@@ -1,0 +1,20 @@
+{
+  "name": "Create Bower",
+  "homepage": "https://github.com/Marcelosilva10/front-lab",
+  "authors": [
+    "Marcelo Henrique <marcelo-h-silva@hotmail.com>"
+  ],
+  "description": "Create to libs to my project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": ">=3.3.7"
+  }
+}

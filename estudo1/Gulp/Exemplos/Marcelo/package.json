@@ -1,0 +1,22 @@
+{
+  "name": "projeto_gulp",
+  "version": "1.0.0",
+  "description": "Aprendo o Funcionamento do Task Runner Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcelosilva10/front-lab.git"
+  },
+  "author": "Marcelo Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcelosilva10/front-lab/issues"
+  },
+  "homepage": "https://github.com/Marcelosilva10/front-lab#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
