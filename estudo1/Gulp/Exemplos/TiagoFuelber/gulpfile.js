@@ -1,5 +1,9 @@
 var gulp = require('gulp');
 
-gulp.task('default', function() {
-  // aqui vai o código que sua task executará
+gulp.task('default', ['task1'], function() {
+
+});
+
+gulp.task('task1', function() {
+  console.log('Hello World');
 });
