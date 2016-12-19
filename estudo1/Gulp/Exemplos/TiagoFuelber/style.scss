@@ -1,0 +1,23 @@
+$cor-vermelha: red;
+
+.body {
+	color: $cor-vermelha;
+}
+.teste{
+color:#fff;
+
+  &:hover{
+        color:red;
+  }
+
+}
+
+
+.teste{
+ color:$cor-vermelha;
+}
+
+.teste2{
+
+  color:$cor-vermelha;
+}
